@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,mysql,postgresql" /><br>
-    <!--<img src="YOUR_CUSTOM_GIN_ICON_URL" alt="Gin"/><br>-->
+    <img src="./img/gin.png" alt="Gin"/><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,postman,latex,linux,vscode,sublime,idea,pycharm"
 </div>
 
