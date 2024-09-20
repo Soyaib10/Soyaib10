@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **soyaibzihad10@gmail.com**
 
-- ⚡ Fun fact **You can fix your code – but not my coffee addiction!**
+- ⚡ Fun fact **I can fix my code – but not my coffee addiction!**
 
 
  </div>
