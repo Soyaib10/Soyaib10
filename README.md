@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.theroar.com.au/author/soyaibzihad101406/](https://www.theroar.com.au/author/soyaibzihad101406/)
 
-- 💬 Ask me about **CP, Go, Sports, Physics, Astronomy & Cosmology**
+- 💬 Ask me about **CP, Go, Sports, Physics, Movies**
 
 - 📫 How to reach me **soyaibzihad10@gmail.com**
 
