@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, Gin, Backend Stuffs**
 
-- 📝 I regularly write articles on [The Roar](https://www.theroar.com.au/author/soyaibzihad101406/)
+- 📝 I sometimes write articles on [The Roar](https://www.theroar.com.au/author/soyaibzihad101406/)
 
 - 💬 Ask me about **CP, Go, Sports, Physics**
 
