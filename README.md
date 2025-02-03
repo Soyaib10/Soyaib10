@@ -34,9 +34,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,mysql,postgresql" />
+<!--     <img src="https://skillicons.dev/icons?i=c,cpp,go,java,python,mysql,postgresql" /> -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,java,mysql,postgresql" />
     <img src="./img/Screenshot from 2024-09-15 23-00-11.png" alt="Gin" hight=45 width=52/><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,postman,latex,linux,vscode,sublime,idea,pycharm"
+<!--     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,postman,latex,linux,vscode,sublime,idea,pycharm" -->
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,postman,linux,latex"
 </div>
 
 <br/>
