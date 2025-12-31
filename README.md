@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@soyaibzihad10), [The Roar](https://www.theroar.com.au/author/soyaibzihad101406/)
 
-- 💬 Ask me about **CP, Go, Sports, Physics**
+- 💬 Ask me about **SWE, Go, Sports, Physics**
 
 - 📫 How to reach me **soyaibzihad10@gmail.com**
 
