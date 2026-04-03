@@ -8,7 +8,7 @@
 
 <!--<p align="left"> <a href="https://twitter.com/soyaibzihad10" target="blank"><img src="https://img.shields.io/twitter/follow/soyaibzihad10?logo=twitter&style=for-the-badge" alt="soyaibzihad10" /></a> </p>-->
 
-- I’m currently learning **Backend Stuffs, DB Optimizations, System Design, AI/ML**
+- I’m currently learning **Backend Stuffs, System Design, AI/ML**
 
 - I sometimes write articles on [Medium](https://medium.com/@soyaibzihad10), [The Roar](https://www.theroar.com.au/author/soyaibzihad101406/)
 
