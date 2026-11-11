@@ -1,6 +1,6 @@
 <!-- [![MasterHead](./img/banner2.gif)](https://www.linkedin.com/in/md-soyaib-rahman-788261194/) -->
 <h1 align="center">Hi, I'm MD SOYAIB RAHMAN</h1>
-<h3 align="center">Backend Engineer @Gigalogy • Go (Golang), Python • Scalable System, RAG, ML • ICPC Dhaka Regional</h3>
+<h3 align="center">Software Engineer @Gigalogy • Go (Golang), Python • Scalable System, RAG, ML • ICPC Dhaka Regional</h3>
 <img align="right" alt="Coding" width="260" src="./img/engineer.gif">
 
 
